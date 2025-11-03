@@ -27,7 +27,7 @@ export default function ModalCadastrar({ close }) {
   return (
     <div className={styles.overlay}>
       <div className={styles.modal}>
-        <h2>Editar Funcionário</h2>
+        <h2>Deletar Funcionário</h2>
         <form onSubmit={handleSubmit} className={styles.form}>
           <input name="id" placeholder="ID (*OBRIGATÓRIO)" onChange={handleChange} required />
           <div className={styles.buttons}>
@@ -38,4 +38,5 @@ export default function ModalCadastrar({ close }) {
       </div>
     </div>
   );
+
 }
