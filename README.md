@@ -11,7 +11,7 @@
 
 cd frontend-app
 
-#### 3️⃣ Instale as dependências:
+#### 3️⃣ Instale as dependências (pode demorar um pouco):
 
 npm install
 
