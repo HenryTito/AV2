@@ -7,8 +7,6 @@
 
  1️⃣ Clone o repositório
 
-git clone <url-do-repositorio>
-
 2️⃣ Acesse a pasta do projeto
 
 cd frontend-app
