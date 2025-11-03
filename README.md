@@ -5,21 +5,21 @@
 
 ### 🪜 Passos para Rodar a Aplicação
 
- 1️⃣ Clone o repositório
+#### 1️⃣ Clone o repositório
 
-2️⃣ Acesse a pasta do projeto
+#### 2️⃣ Acesse a pasta do projeto:
 
 cd frontend-app
 
-3️⃣ Instale as dependências
+#### 3️⃣ Instale as dependências:
 
 npm install
 
-4️⃣ Execute em modo de desenvolvimento
+#### 4️⃣ Execute em modo de desenvolvimento:
 
 npm run dev
 
-5️⃣ Acesse a aplicação
+#### 5️⃣ Acesse a aplicação:
 Abra seu navegador e visite:
 👉 http://localhost:3000
 
