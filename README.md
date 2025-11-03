@@ -5,6 +5,8 @@
 
 ### 🪜 Passos para Rodar a Aplicação
 
+#### VERIFIQUE ANTES SE O NODE ESTÁ INSTALADO
+
 #### 1️⃣ Clone o repositório
 
 #### 2️⃣ Acesse a pasta do projeto:
