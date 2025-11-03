@@ -5,7 +5,7 @@
 
 ### 🪜 Passos para Rodar a Aplicação
 
-#### VERIFIQUE ANTES SE O NODE ESTÁ INSTALADO
+####  ❗ VERIFIQUE ANTES SE O NODE ESTÁ INSTALADO
 
 #### 1️⃣ Clone o repositório
 
@@ -24,6 +24,12 @@ npm run dev
 #### 5️⃣ Acesse a aplicação:
 Abra seu navegador e visite:
 👉 http://localhost:3000
+
+
+
+
+
+
 
 
 ### Confira mais informações!
