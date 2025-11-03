@@ -27,8 +27,13 @@ Abra seu navegador e visite:
 
 
 ### Confira mais informações!
-Baixar o relatório (PDF)](./RELATÓRIO AEROCODE HENRY VILELA SILVA TITO.pdf)
+
+[📄 Baixar o relatório (PDF)](./RELATÓRIO%20AEROCODE%20HENRY%20VILELA%20SILVA%20TITO.pdf)
+
+
 Acesse o [wireframe oficial do projeto](https://www.figma.com/design/wJyarRIxXZoFWZ2PFdo1wy/Wireframes-Kit--Free---Community-?node-id=50-1962&t=EjNWISCsa79DybhZ-1).
+
+
 Acesse o [useflow oficial do projeto](https://miro.com/welcomeonboard/YXI3L0JCeXNnYTZXVm9GMXgyTzhlaFB1eDRkQlozeGVBRVUrWXBLc2hQY2JqT01qbGUzUk1yS01sRnkvdVNYTkZWL2NXQmJPakdzaGhaVGEyQUZXSi9ITnErclRFRFMwQ2doZWJnVHJxZVpXTjFqcW9VN0F6dDZ1bDgvWmo5bFBhWWluRVAxeXRuUUgwWDl3Mk1qRGVRPT0hdjE=?share_link_id=671543257376
 ).
 
