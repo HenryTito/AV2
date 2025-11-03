@@ -15,7 +15,7 @@ cd frontend-app
 
 npm install
 
-#### 4️⃣ Execute em modo de desenvolvimento:
+#### 4️⃣ Execute:
 
 npm run dev
 
